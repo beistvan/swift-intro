@@ -28,3 +28,5 @@ switch Timing {
     default:
         time = "INVALID Time!"
 }
+
+print(time)
